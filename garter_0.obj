@@ -1,0 +1,9 @@
+# exported with NifSkope
+
+mtllib garter_0.mtl
+
+# garterbelt
+
+g garterbelt
+usemtl Material.000001
+

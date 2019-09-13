@@ -1,0 +1,9 @@
+# exported with NifSkope
+
+mtllib gloves_1.mtl
+
+# vampiregloves
+
+g vampiregloves
+usemtl Material.000001
+

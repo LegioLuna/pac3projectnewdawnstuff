@@ -1,0 +1,9 @@
+# exported with NifSkope
+
+mtllib tasset_0.mtl
+
+# tasset
+
+g tasset
+usemtl Material.000001
+

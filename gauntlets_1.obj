@@ -1,0 +1,15 @@
+# exported with NifSkope
+
+mtllib gauntlets_1.mtl
+
+# vambrace
+
+g vambrace
+usemtl Material.000001
+
+
+# gloves
+
+g gloves
+usemtl Material.000001
+

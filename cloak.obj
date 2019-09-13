@@ -1,0 +1,9 @@
+# exported with NifSkope
+
+mtllib cloak.mtl
+
+# cloak
+
+g cloak
+usemtl Material.000001
+

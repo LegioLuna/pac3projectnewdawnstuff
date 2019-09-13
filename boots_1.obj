@@ -1,0 +1,9 @@
+# exported with NifSkope
+
+mtllib boots_1.mtl
+
+# Boots
+
+g Boots
+usemtl Material.000001
+

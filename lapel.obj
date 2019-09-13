@@ -1,0 +1,9 @@
+# exported with NifSkope
+
+mtllib lapel.mtl
+
+# lapel
+
+g lapel
+usemtl Material.000001
+

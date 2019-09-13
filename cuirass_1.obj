@@ -1,0 +1,15 @@
+# exported with NifSkope
+
+mtllib cuirass_1.mtl
+
+# cuirass
+
+g cuirass
+usemtl Material.000001
+
+
+# CBBE
+
+g CBBE
+usemtl Material.000001
+

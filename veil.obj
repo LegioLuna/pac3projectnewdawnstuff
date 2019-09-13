@@ -1,0 +1,9 @@
+# exported with NifSkope
+
+mtllib veil.mtl
+
+# veil
+
+g veil
+usemtl Material.000001
+
